@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Lexend-Regular";
+    src: url(../fonts/Lexend-Regular.ttf);
+}
+
+@font-face {
+    font-family: "LoveYaLikeASister";
+    src: url(../fonts/LoveYaLikeASister-Regular.ttf);
+}
